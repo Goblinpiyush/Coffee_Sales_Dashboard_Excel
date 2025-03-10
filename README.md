@@ -22,4 +22,4 @@ We all know how crucial Excel is in the world of data analysis and decision-maki
 
 🔟 Dashboard Creation: Bringing it all together in an engaging, actionable dashboard!
 
-💡 Pro Tip: Consistency in formatting and validation is key to creating impactful reports.
+
